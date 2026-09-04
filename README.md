@@ -1,5 +1,5 @@
 # Olzu-Ellipse
-<img src="images/dissasembled.jpg" alt="Main image" width="200" height="100" />
+<img src="images/dissasembled.jpg" alt="Main image" width="150" height="150" />
 My project for an awesome voice controlled music player! 
 
 ---
@@ -44,9 +44,11 @@ Next, wire up the bread board like this:
 #define SD_CS_IO      GPIO_NUM_9    // D10
 ```
 Just wires:
+
 <img src="images/nocomp.jpg" alt="Main image" width="200" height="100" />
 
 With components:
+
 <img src="images/noshell.jpg" alt="Main image" width="200" height="100" />
 
 Then, 3DP the parts. Draw seams on the indents of the male and female base and shell prongs.
