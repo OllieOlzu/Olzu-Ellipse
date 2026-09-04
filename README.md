@@ -12,6 +12,7 @@ TL;DR, over the past few months, I have been developing this project, intending 
 ### Parts list:
 
 | Part | Where to buy | Cost (USD) |
+|---|---|---:|
 | XIAO ESP32S3 | Seeed studios | $11 |
 | INMP441 microphone | Aliexpress | $1 |
 | MAX98357A amplifyer | Aliexpress | $1 |
@@ -49,7 +50,7 @@ Then, 3DP the parts. Draw seams on the indents of the male and female base and s
 
 Assemble, upload code, then put your songs on in the form of MP4 or WAV (WAV may sometimes skip songs) with 1.mp3, 2.wav, 3.mp3, etc with that order of titles dictating play order. Then, ask "Ellipse," then play, stop, next, back, volume up, or volume down. It should act like this:
 
-[Click here to visit Google](https://drive.google.com/file/d/1HiCZSoKqFnZCQKwasglbz2WqJZx6tAWT)
+[Video](https://drive.google.com/file/d/1HiCZSoKqFnZCQKwasglbz2WqJZx6tAWT)
 
 
 
