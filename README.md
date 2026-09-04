@@ -45,7 +45,7 @@ Next, wire up the bread board like this:
 ```
 Just wires:
 
-<img src="images/nocomp.jpg" alt="Main image" height="100" />
+<img src="images/nocomp.jpg" alt="Main image" style="transform: rotate(90deg);" height="100" />
 
 With components:
 
