@@ -1,4 +1,5 @@
 # Olzu-Ellipse
+<img src="image/dissasembled.jpg" alt="Main image" width="200" height="100" />
 My project for an awesome voice controlled music player! 
 
 ---
