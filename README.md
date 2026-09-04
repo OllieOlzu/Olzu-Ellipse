@@ -45,11 +45,11 @@ Next, wire up the bread board like this:
 ```
 Just wires:
 
-<img src="images/nocomp.jpg" alt="Main image" style="transform: rotate(90deg);" height="100" />
+<img src="images/nocomp.jpg" alt="Main image"  height="200" />
 
 With components:
 
-<img src="images/noshell.jpg" alt="Main image" height="100" />
+<img src="images/noshell.jpg" alt="Main image" height="150" />
 
 Then, 3DP the parts. Draw seams on the indents of the male and female base and shell prongs.
 
